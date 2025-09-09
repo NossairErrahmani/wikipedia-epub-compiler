@@ -24,7 +24,6 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-CLAUDE.md
 
 # Virtual environments
 .env
